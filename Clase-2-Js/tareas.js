@@ -9,7 +9,7 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 // Tip: borrar el dato 'null' antes de poner el dato tipo string.
-const nuevaString = null;
+const nuevaString = "hola ana";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
